@@ -1,6 +1,6 @@
 title:               Celeste
-url:                 https://souterzulch.github.io/blog
-baseurl:             ""
+url:                 https://souterzulch.github.io
+baseurl:             "/blog"
 
 markdown:            kramdown
 highlighter:         rouge
